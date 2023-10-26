@@ -1,0 +1,14 @@
+C:\Users\prof_\OneDrive\Documentos\GitHub\abstraccion\Ab\Ab\bin\Debug\net6.0\Ab.exe
+C:\Users\prof_\OneDrive\Documentos\GitHub\abstraccion\Ab\Ab\bin\Debug\net6.0\Ab.deps.json
+C:\Users\prof_\OneDrive\Documentos\GitHub\abstraccion\Ab\Ab\bin\Debug\net6.0\Ab.runtimeconfig.json
+C:\Users\prof_\OneDrive\Documentos\GitHub\abstraccion\Ab\Ab\bin\Debug\net6.0\Ab.dll
+C:\Users\prof_\OneDrive\Documentos\GitHub\abstraccion\Ab\Ab\bin\Debug\net6.0\Ab.pdb
+C:\Users\prof_\OneDrive\Documentos\GitHub\abstraccion\Ab\Ab\obj\Debug\net6.0\Ab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prof_\OneDrive\Documentos\GitHub\abstraccion\Ab\Ab\obj\Debug\net6.0\Ab.AssemblyInfoInputs.cache
+C:\Users\prof_\OneDrive\Documentos\GitHub\abstraccion\Ab\Ab\obj\Debug\net6.0\Ab.AssemblyInfo.cs
+C:\Users\prof_\OneDrive\Documentos\GitHub\abstraccion\Ab\Ab\obj\Debug\net6.0\Ab.csproj.CoreCompileInputs.cache
+C:\Users\prof_\OneDrive\Documentos\GitHub\abstraccion\Ab\Ab\obj\Debug\net6.0\Ab.dll
+C:\Users\prof_\OneDrive\Documentos\GitHub\abstraccion\Ab\Ab\obj\Debug\net6.0\refint\Ab.dll
+C:\Users\prof_\OneDrive\Documentos\GitHub\abstraccion\Ab\Ab\obj\Debug\net6.0\Ab.pdb
+C:\Users\prof_\OneDrive\Documentos\GitHub\abstraccion\Ab\Ab\obj\Debug\net6.0\Ab.genruntimeconfig.cache
+C:\Users\prof_\OneDrive\Documentos\GitHub\abstraccion\Ab\Ab\obj\Debug\net6.0\ref\Ab.dll
